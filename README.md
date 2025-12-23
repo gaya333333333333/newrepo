@@ -1,2 +1,2 @@
 # newrepo
-hi this is my new repo
+hello guys , this is my new repository.
